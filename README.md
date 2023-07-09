@@ -18,4 +18,5 @@ The dataset contains one set of SMS messages in English of 5,574 messages, tagge
 * Naive Bayes
 * SVC
 * Random Forest Classifier
-<br />Highest Accuracy: 98.27
+<br />__Best Model Accuracy: 98.27__
+
